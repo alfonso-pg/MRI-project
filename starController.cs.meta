@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c9d76d8e97ded3a4a97ba8ea18f541ab
+timeCreated: 1548417158
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - myRigidBody: {fileID: 50103554111022470, guid: b4c207148835ebc4a91e9b1b715a14d3,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
